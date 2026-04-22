@@ -10,7 +10,7 @@
 # input() devuelve un valor de tipo "cadena de texto" (str), por lo que es necesario 
 # convertirlo al formato que se necesita
 
-largo_terreno = input("Ingrese el largo del terreno (en metros): ")  # Captura como texto
+largo_terreno = input("Ingrese el largo del terreno numeros basicos (en metros): ")  # Captura como texto
 largo_terreno = float(largo_terreno)  # Convierte el texto a número decimal
 
 ancho_terreno = input("Ingrese el ancho del terreno (en metros): ")  # Captura como texto
